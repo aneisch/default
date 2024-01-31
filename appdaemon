@@ -1,6 +1,7 @@
 [
   "AaronDavidSchneider/SonosAlarmAutomation",
   "aneisch/follow_me_appdaemon",
+  "aneisch/echo-timer-sync",
   "apop880/config-check",
   "apop880/Night-Mode",
   "apop880/SmartThings-Button",
